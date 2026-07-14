@@ -6,7 +6,7 @@ Postil is a quiet AI code review gate. It reports findings that can change a mer
 
 Use the [hosted GitHub App](https://postil.dev/install), run the same review engine [locally](https://postil.dev/docs/coding-agents), or add it to CI with the [Postil Action](https://github.com/postil-dev/postil-action).
 
-### Repositories
+## Repositories
 
 - [`postil`](https://github.com/postil-dev/postil): hosted service, dashboard, and worker
 - [`postil-cli`](https://github.com/postil-dev/postil-cli): review engine for local, CI, and hosted use
