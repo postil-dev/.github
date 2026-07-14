@@ -1,2 +1,3 @@
-# .github
-Community health files and organization profile for Postil.
+# Postil organization files
+
+This repository contains the public profile for the Postil GitHub organization.
