@@ -4,7 +4,7 @@
 
 Postil is a quiet AI code review gate. It reports findings that can change a merge decision and stays silent on clean pull requests.
 
-Use the [hosted GitHub App](https://postil.dev/install), run the same review engine [locally](https://postil.dev/docs/coding-agents), or add it to CI with the [Postil Action](https://github.com/postil-dev/postil-action).
+Use the [hosted GitHub App](https://postil.dev/install), run the same review engine [locally](https://postil.dev/docs/cli), or add it to CI with the [Postil Action](https://github.com/postil-dev/postil-action).
 
 ## Repositories
 
